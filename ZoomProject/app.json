@@ -1,0 +1,22 @@
+{
+  "id": "ad602505-d373-4393-9f96-fc542b51d61c",
+  "name": "Zoom",
+  "publisher": "Anonym",
+  "brief": "",
+  "description": "Show All fields",
+  "version": "2.1.0.6",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "Sed-03-512.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}

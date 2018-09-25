@@ -1,0 +1,22 @@
+{
+  "id": "20c357fe-5431-4b6e-b9dd-4933bce4c557",
+  "name": "ItemStock",
+  "publisher": "hh",
+  "brief": "",
+  "description": "Testing",
+  "version": "1.0.0.1",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "Sed-24-512.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
