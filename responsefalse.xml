@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <rescode>4</rescode>
+  <hp>0812112345</hp>
+  <vtype>s10</vtype>
+  <server_trxid>313432031</server_trxid>
+  <partner_trxid>20808000000238</partner_trxid>
+  <scrmessage>SUKSES</scrmessage>
+  <sn>329710761</sn>
+  <url>http://117.102.102.50:7123/h2h.php?channelid=mca&amp;posid=20808&amp;password=6f1c31d6e63f34f3054e392e84b56ed9&amp;cmd=topup&amp;hp=0812112345&amp;vtype=s10&amp;trxtime=20180928180311&amp;partner_trxid=20808000000238&amp;storeid=st208&amp;cashierid=208001</url>
+</response>
+<response>
+  <rescode>4</rescode>
+  <hp>0812112345</hp>
+  <vtype>s10</vtype>
+  <server_trxid>313432031</server_trxid>
+  <partner_trxid>20808000000238</partner_trxid>
+  <scrmessage>SUKSES</scrmessage>
+  <sn>329710761</sn>
+  <url>http://117.102.102.50:7123/h2h.php?channelid=mca&amp;posid=20808&amp;password=6f1c31d6e63f34f3054e392e84b56ed9&amp;cmd=topup&amp;hp=0812112345&amp;vtype=s10&amp;trxtime=20180928180311&amp;partner_trxid=20808000000238&amp;storeid=st208&amp;cashierid=208001</url>
+</response>
